@@ -46,7 +46,7 @@ Sistem iuran kas RT adalah suatu mekanisme keuangan yang digunakan dalam lingkun
 
 <img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="130px">
 
-- [Dokumentasi YouTube]()
+- [Dokumentasi YouTube](https://youtu.be/v1KWLSi4HG0)
 
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">
 
