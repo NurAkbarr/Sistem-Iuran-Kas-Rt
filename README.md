@@ -40,7 +40,7 @@ Sistem iuran kas RT adalah suatu mekanisme keuangan yang digunakan dalam lingkun
 
 3. **Bootstrap**
 
-Bootstrap adalah kerangka kerja front-end yang mempermudah pengembangan antarmuka web yang responsif dan menarik secara visual. Dengan menggunakan Bootstrap dalam proyek sistem iuran kas RT, pengembang dapat memanfaatkan kumpulan alat dan gaya pradesain yang telah disediakan untuk membangun tata letak yang responsif dan kompatibel dengan berbagai perangkat
+   Bootstrap adalah kerangka kerja front-end yang mempermudah pengembangan antarmuka web yang responsif dan menarik secara visual. Dengan menggunakan Bootstrap dalam proyek sistem iuran kas RT, pengembang dapat memanfaatkan kumpulan alat dan gaya pradesain yang telah disediakan untuk membangun tata letak yang responsif dan kompatibel dengan berbagai perangkat
 
 ## **_Demo:_**
 
